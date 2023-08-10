@@ -1,4 +1,4 @@
-Minimal dtbo partition for Fairphone 3 (fairphone-fp3).
+Minimal dtbo partition for Redmi 7 (xiaomi-onclite).
 
 Used for lk2nd and mainline kernel.
 
