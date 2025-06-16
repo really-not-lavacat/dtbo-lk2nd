@@ -3,7 +3,7 @@ Minimal dtbo partition.
 Supported devices:
 
 - Redmi 7 (xiaomi-onclite).
-- Redmi 7A (xioami-pine)
+- Redmi 7A (xiaomi-pine)
 - Lenovo Tab M10 HD (lenovo-tbx505x)
 
 Used for lk2nd and mainline kernel.
